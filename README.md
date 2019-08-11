@@ -36,22 +36,22 @@ This is an approximate and proxy way of determining the polarity (positivity/neg
 ------------------------------------------------------------------------------------------------------------------------------
 
 ML Algorithms Demonstarted-
-1)TSNE-Used for visualisig the data in lower dimensions.
-2)K Nearest Neighbors
-3)Support Vector Machines
-4)Logistic Regression.
-5)Decision Trees.
-6)Random Forests and Gradient Boosted Decision Trees
-7)Naive Bayes
-8)Clustering Algorithm used in UnSupervised settings
+1.TSNE-Used for visualisig the data in lower dimensions.
+2.K Nearest Neighbors
+3.Support Vector Machines
+4.Logistic Regression.
+5.Decision Trees.
+6.Random Forests and Gradient Boosted Decision Trees
+7.Naive Bayes
+8.Clustering Algorithm used in UnSupervised settings
 
 ------------------------------------------------------------------------------------------------------------------------------
 In order to apply the above algorithms the data was first preprocessed using various steps and then the review text was 
 vectorized using-\
-1)Bag Of Words\
-2)TFIDF\
-3)Avg Word 2 Vec\
-4)TFIDF Weighted Word 2 VEC
+1.Bag Of Words\
+2.TFIDF\
+3.Avg Word 2 Vec\
+4.TFIDF Weighted Word 2 VEC
 
 The above ML algorithms were applied to all or a combination of the above word vectorizations.
 
