@@ -35,7 +35,7 @@ This is an approximate and proxy way of determining the polarity (positivity/neg
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-ML Algorithms Demonstarted-
+ML Algorithms Demonstarted-\
 1.TSNE-Used for visualisig the data in lower dimensions\
 2.K Nearest Neighbors\
 3.Support Vector Machines\
