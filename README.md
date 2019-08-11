@@ -1,9 +1,12 @@
 # Machine-Learning-Algortihms-on-Amazon-Fine-Foods-Reviews
+
 This repository demonstrates the application of multiple Machine Learning Algortims to the Amazon Fine Foods Review Dataset.
+
 -----------------------------------------------------------------------------------------------------------------------------
 Description of the Dataset-
-Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
-EDA: https://nycdatascience.com/blog/student-works/amazon-fine-foods-visualization/ The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
+Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews.
+EDA: https://nycdatascience.com/blog/student-works/amazon-fine-foods-visualization/.
+The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
 Number of reviews: 568,454
 Number of users: 256,059
 Number of products: 74,258
@@ -26,13 +29,12 @@ Objective-
 
 Given a review, determine whether the review is positive (rating of 4 or 5) or negative (rating of 1 or 2).
 
-[Q] How to determine if a review is positive or negative?
-[Ans] We could use Score/Rating. 
-A rating of 4 or 5 can be cosnidered as a positive review.
-A rating of 1 or 2 can be considered as negative one.
-A review of rating 3 is considered nuetral and such reviews are ignored from our analysis. 
+Q. How to determine if a review is positive or negative?
+A. We could use Score/Rating. A rating of 4 or 5 can be considered as a positive review.A rating of 1 or 2 can be considered as negative one.A review of rating 3 is considered nuetral and such reviews are ignored from our analysis. 
 This is an approximate and proxy way of determining the polarity (positivity/negativity) of a review.
+
 ------------------------------------------------------------------------------------------------------------------------------
+
 ML Algorithms Demonstarted-
 1)TSNE-Used for visualisig the data in lower dimensions.
 2)K Nearest Neighbors
@@ -42,12 +44,13 @@ ML Algorithms Demonstarted-
 6)Random Forests and Gradient Boosted Decision Trees
 7)Naive Bayes
 8)Clustering Algorithm used in UnSupervised settings
--------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------
 In order to apply the above algorithms the data was first preprocessed using various steps and then the review text was 
-vectorized using-
-1)Bag Of Words
-2)TFIDF
-3)Avg Word 2 Vec
+vectorized using-\
+1)Bag Of Words\
+2)TFIDF\
+3)Avg Word 2 Vec\
 4)TFIDF Weighted Word 2 VEC
 
 The above ML algorithms were applied to all or a combination of the above word vectorizations.
