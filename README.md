@@ -36,11 +36,11 @@ This is an approximate and proxy way of determining the polarity (positivity/neg
 ------------------------------------------------------------------------------------------------------------------------------
 
 ML Algorithms Demonstarted-
-1.TSNE-Used for visualisig the data in lower dimensions.
+1.TSNE-Used for visualisig the data in lower dimensions
 2.K Nearest Neighbors
 3.Support Vector Machines
-4.Logistic Regression.
-5.Decision Trees.
+4.Logistic Regression
+5.Decision Trees
 6.Random Forests and Gradient Boosted Decision Trees
 7.Naive Bayes
 8.Clustering Algorithm used in UnSupervised settings
